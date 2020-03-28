@@ -1,0 +1,208 @@
+/* CSS style sheet
+#main-wrapper{
+width:500px;
+margin: 0 auto;
+background:white;
+padding:5px;
+border-radius:10px;
+border:3px solid #2c3e50;
+}
+
+.avatar{
+
+width:150px;
+text-align:center;
+
+}
+
+.myform{
+ width:450px;
+ margin:0 auto;
+}
+
+
+
+.inputvalues{
+width:430px;
+margin:0 auto;
+padding:5px;
+
+}
+
+#login_btn{
+margin-top:10px;
+background-color:#27ae60;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+#register_btn{
+margin-bottom:20px;
+margin-top:10px;
+background-color:#3498db;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+#signup_btn{
+margin-top:10px;
+background-color:#3498db;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+
+
+#logout_btn{
+margin-top:10px;
+margin-bottom:10px;
+background-color:#2980b9;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+
+
+ */
+
+
+/* new css */
+
+body{
+   background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(../1920x1080-wallpaper-nature-4.jpg);
+   height: auto;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+
+
+	
+	.myform{
+		
+ width:250px;
+ margin:0 auto;
+}
+
+
+	#main-wrapper{
+		margin:0 auto;
+width:450px;
+
+background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../1920x1080-wallpaper-nature-4.jpg);
+padding:5px;
+border-radius:10px;
+border:3px solid #2c3e50;
+}
+.avatar{
+
+width:150px;
+text-align:center;
+
+}
+#login_btn{
+margin-top:10px;
+background-color:#27ae60;
+padding:5px;
+color:white;
+width:100%;
+border-radius:7px;
+border:3px solid #2c3e50;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+
+#register_btn{
+margin-bottom:20px;
+margin-top:10px;
+background-color:#3498db;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+border-radius:7px;
+border:3px solid #2c3e50;
+font-size:18px;
+font-weight:bold;
+}
+#signup_btn{
+margin-bottom:20px;
+margin-top:10px;
+background-color:#3498db;
+padding:5px;
+color:white;
+width:70%;
+border-radius:7px;
+border:3px solid #2c3e50;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+#back_btn{
+margin-top:10px;
+margin-bottom:30px;
+background-color:#e74c3c;
+padding:5px;
+color:white;
+border-radius:7px;
+border:3px solid #2c3e50;
+width:30%;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
+
+.inputvalues{
+width:230px;
+margin:0 auto;
+padding:5px;
+
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+	
+}
+
+	.logo img{
+	float: left;
+	width: 100px;
+	height: auto;
+	background-color: #cfd9df;
+}
+
+		#main-wrappero{
+		margin:0 auto;
+width:600px;
+background-color: white;
+/* background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../1920x1080-wallpaper-nature-4.jpg); */
+padding:5px;
+border-radius:10px;
+border:3px solid #2c3e50;
+}
+	
+	.myforma{
+		
+ width:450px;
+ margin:0 auto;
+}
+	
+	
+
+	
